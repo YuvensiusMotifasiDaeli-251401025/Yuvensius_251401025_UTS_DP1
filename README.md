@@ -32,7 +32,7 @@ Fork repository ini dan rename menjadi NAMA_NIM_UTS_DP1
 
 Silahkan masukkan link gdrive (untuk soal 6 dan video) dalam kotak berikut
 
-      [link]
+      [https://drive.google.com/drive/folders/1tolNZmg7YMiNJgntK5VU0p4ojF_Y2faZ?usp=sharing ]
       
 
 # ⚠️ _JANGAN COBA-COBA UNTUK COPY PASTE CODE DARI TEMAN ATAUPUN YANG ADA DI GOOGLE. MOHON KERJAKAN MASING-MASING._ ⚠️
